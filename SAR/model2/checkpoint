@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lijiayu/SAR/Chen/model/2018_2_15/model.ckpt"
+all_model_checkpoint_paths: "/home/lijiayu/SAR/Chen/model/2018_2_15/model.ckpt"

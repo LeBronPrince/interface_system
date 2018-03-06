@@ -1,0 +1,4 @@
+该文件夹中都是测试数据的标签：
+	label.txt文件是所有测试数据的标签，对应的shuffle_label.txt文件是打乱顺序的标签；
+	label_0~9是分别对应10类图像数据的标签；
+	test_0~9.tfrecords是Tensorflow支持的数据形式，其中存储的是图像数据及图像对应的标签；
